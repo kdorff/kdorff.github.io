@@ -1,1 +1,3 @@
-Hello World
+= Welcome!
+
+Welcome to my Github site. Checkout my repo on http://github.com/kdorff[github]
